@@ -44,6 +44,7 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
+					<Add directory="/usr/local/openssl/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
@@ -66,6 +67,7 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
+					<Add directory="/usr/local/openssl/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
@@ -83,6 +85,30 @@
 			</Target>
 		</Build>
 		<Unit filename="/Users/mac/Desktop/CZBKC/ClionProjects/ArrayTest/ArraySort.c">
+			<Option target="ClionProjects"/>
+		</Unit>
+		<Unit filename="/Users/mac/Desktop/CZBKC/ClionProjects/C_Pointer_Chapter2/Testtrigrph.c">
+			<Option target="ClionProjects"/>
+		</Unit>
+		<Unit filename="/Users/mac/Desktop/CZBKC/ClionProjects/C_Pointer_Chapter2/problem281/increment.c">
+			<Option target="ClionProjects"/>
+		</Unit>
+		<Unit filename="/Users/mac/Desktop/CZBKC/ClionProjects/C_Pointer_Chapter2/problem281/increment.h">
+			<Option target="ClionProjects"/>
+		</Unit>
+		<Unit filename="/Users/mac/Desktop/CZBKC/ClionProjects/C_Pointer_Chapter2/problem281/main.c">
+			<Option target="ClionProjects"/>
+		</Unit>
+		<Unit filename="/Users/mac/Desktop/CZBKC/ClionProjects/C_Pointer_Chapter2/problem281/negate.c">
+			<Option target="ClionProjects"/>
+		</Unit>
+		<Unit filename="/Users/mac/Desktop/CZBKC/ClionProjects/C_Pointer_Chapter2/problem281/negate.h">
+			<Option target="ClionProjects"/>
+		</Unit>
+		<Unit filename="/Users/mac/Desktop/CZBKC/ClionProjects/C_Pointer_Chapter2/problem282/braces.c">
+			<Option target="ClionProjects"/>
+		</Unit>
+		<Unit filename="/Users/mac/Desktop/CZBKC/ClionProjects/OpenSSL/Test.c">
 			<Option target="ClionProjects"/>
 		</Unit>
 		<Unit filename="/Users/mac/Desktop/CZBKC/ClionProjects/main.cpp">

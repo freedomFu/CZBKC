@@ -83,19 +83,109 @@ CMakeFiles/ClionProjects.dir/ArrayTest/ArraySort.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ClionProjects.dir/ArrayTest/ArraySort.c.s"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mac/Desktop/CZBKC/ClionProjects/ArrayTest/ArraySort.c -o CMakeFiles/ClionProjects.dir/ArrayTest/ArraySort.c.s
 
+CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/Testtrigrph.c.o: CMakeFiles/ClionProjects.dir/flags.make
+CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/Testtrigrph.c.o: ../C_Pointer_Chapter2/Testtrigrph.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mac/Desktop/CZBKC/ClionProjects/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/Testtrigrph.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/Testtrigrph.c.o   -c /Users/mac/Desktop/CZBKC/ClionProjects/C_Pointer_Chapter2/Testtrigrph.c
+
+CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/Testtrigrph.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/Testtrigrph.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mac/Desktop/CZBKC/ClionProjects/C_Pointer_Chapter2/Testtrigrph.c > CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/Testtrigrph.c.i
+
+CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/Testtrigrph.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/Testtrigrph.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mac/Desktop/CZBKC/ClionProjects/C_Pointer_Chapter2/Testtrigrph.c -o CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/Testtrigrph.c.s
+
+CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem281/increment.c.o: CMakeFiles/ClionProjects.dir/flags.make
+CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem281/increment.c.o: ../C_Pointer_Chapter2/problem281/increment.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mac/Desktop/CZBKC/ClionProjects/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem281/increment.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem281/increment.c.o   -c /Users/mac/Desktop/CZBKC/ClionProjects/C_Pointer_Chapter2/problem281/increment.c
+
+CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem281/increment.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem281/increment.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mac/Desktop/CZBKC/ClionProjects/C_Pointer_Chapter2/problem281/increment.c > CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem281/increment.c.i
+
+CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem281/increment.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem281/increment.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mac/Desktop/CZBKC/ClionProjects/C_Pointer_Chapter2/problem281/increment.c -o CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem281/increment.c.s
+
+CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem281/negate.c.o: CMakeFiles/ClionProjects.dir/flags.make
+CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem281/negate.c.o: ../C_Pointer_Chapter2/problem281/negate.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mac/Desktop/CZBKC/ClionProjects/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem281/negate.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem281/negate.c.o   -c /Users/mac/Desktop/CZBKC/ClionProjects/C_Pointer_Chapter2/problem281/negate.c
+
+CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem281/negate.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem281/negate.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mac/Desktop/CZBKC/ClionProjects/C_Pointer_Chapter2/problem281/negate.c > CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem281/negate.c.i
+
+CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem281/negate.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem281/negate.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mac/Desktop/CZBKC/ClionProjects/C_Pointer_Chapter2/problem281/negate.c -o CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem281/negate.c.s
+
+CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem281/main.c.o: CMakeFiles/ClionProjects.dir/flags.make
+CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem281/main.c.o: ../C_Pointer_Chapter2/problem281/main.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mac/Desktop/CZBKC/ClionProjects/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem281/main.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem281/main.c.o   -c /Users/mac/Desktop/CZBKC/ClionProjects/C_Pointer_Chapter2/problem281/main.c
+
+CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem281/main.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem281/main.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mac/Desktop/CZBKC/ClionProjects/C_Pointer_Chapter2/problem281/main.c > CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem281/main.c.i
+
+CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem281/main.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem281/main.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mac/Desktop/CZBKC/ClionProjects/C_Pointer_Chapter2/problem281/main.c -o CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem281/main.c.s
+
+CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem282/braces.c.o: CMakeFiles/ClionProjects.dir/flags.make
+CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem282/braces.c.o: ../C_Pointer_Chapter2/problem282/braces.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mac/Desktop/CZBKC/ClionProjects/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem282/braces.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem282/braces.c.o   -c /Users/mac/Desktop/CZBKC/ClionProjects/C_Pointer_Chapter2/problem282/braces.c
+
+CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem282/braces.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem282/braces.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mac/Desktop/CZBKC/ClionProjects/C_Pointer_Chapter2/problem282/braces.c > CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem282/braces.c.i
+
+CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem282/braces.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem282/braces.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mac/Desktop/CZBKC/ClionProjects/C_Pointer_Chapter2/problem282/braces.c -o CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem282/braces.c.s
+
+CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.o: CMakeFiles/ClionProjects.dir/flags.make
+CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.o: ../OpenSSL/Test.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mac/Desktop/CZBKC/ClionProjects/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.o   -c /Users/mac/Desktop/CZBKC/ClionProjects/OpenSSL/Test.c
+
+CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mac/Desktop/CZBKC/ClionProjects/OpenSSL/Test.c > CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.i
+
+CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mac/Desktop/CZBKC/ClionProjects/OpenSSL/Test.c -o CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.s
+
 # Object files for target ClionProjects
 ClionProjects_OBJECTS = \
 "CMakeFiles/ClionProjects.dir/main.cpp.o" \
-"CMakeFiles/ClionProjects.dir/ArrayTest/ArraySort.c.o"
+"CMakeFiles/ClionProjects.dir/ArrayTest/ArraySort.c.o" \
+"CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/Testtrigrph.c.o" \
+"CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem281/increment.c.o" \
+"CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem281/negate.c.o" \
+"CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem281/main.c.o" \
+"CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem282/braces.c.o" \
+"CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.o"
 
 # External object files for target ClionProjects
 ClionProjects_EXTERNAL_OBJECTS =
 
 ClionProjects: CMakeFiles/ClionProjects.dir/main.cpp.o
 ClionProjects: CMakeFiles/ClionProjects.dir/ArrayTest/ArraySort.c.o
+ClionProjects: CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/Testtrigrph.c.o
+ClionProjects: CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem281/increment.c.o
+ClionProjects: CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem281/negate.c.o
+ClionProjects: CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem281/main.c.o
+ClionProjects: CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem282/braces.c.o
+ClionProjects: CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.o
 ClionProjects: CMakeFiles/ClionProjects.dir/build.make
 ClionProjects: CMakeFiles/ClionProjects.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/mac/Desktop/CZBKC/ClionProjects/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable ClionProjects"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/mac/Desktop/CZBKC/ClionProjects/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable ClionProjects"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/ClionProjects.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

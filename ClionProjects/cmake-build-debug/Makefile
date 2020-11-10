@@ -150,6 +150,168 @@ ArrayTest/ArraySort.c.s:
 	$(MAKE) -f CMakeFiles/ClionProjects.dir/build.make CMakeFiles/ClionProjects.dir/ArrayTest/ArraySort.c.s
 .PHONY : ArrayTest/ArraySort.c.s
 
+C_Pointer_Chapter2/Testtrigrph.o: C_Pointer_Chapter2/Testtrigrph.c.o
+
+.PHONY : C_Pointer_Chapter2/Testtrigrph.o
+
+# target to build an object file
+C_Pointer_Chapter2/Testtrigrph.c.o:
+	$(MAKE) -f CMakeFiles/ClionProjects.dir/build.make CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/Testtrigrph.c.o
+.PHONY : C_Pointer_Chapter2/Testtrigrph.c.o
+
+C_Pointer_Chapter2/Testtrigrph.i: C_Pointer_Chapter2/Testtrigrph.c.i
+
+.PHONY : C_Pointer_Chapter2/Testtrigrph.i
+
+# target to preprocess a source file
+C_Pointer_Chapter2/Testtrigrph.c.i:
+	$(MAKE) -f CMakeFiles/ClionProjects.dir/build.make CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/Testtrigrph.c.i
+.PHONY : C_Pointer_Chapter2/Testtrigrph.c.i
+
+C_Pointer_Chapter2/Testtrigrph.s: C_Pointer_Chapter2/Testtrigrph.c.s
+
+.PHONY : C_Pointer_Chapter2/Testtrigrph.s
+
+# target to generate assembly for a file
+C_Pointer_Chapter2/Testtrigrph.c.s:
+	$(MAKE) -f CMakeFiles/ClionProjects.dir/build.make CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/Testtrigrph.c.s
+.PHONY : C_Pointer_Chapter2/Testtrigrph.c.s
+
+C_Pointer_Chapter2/problem281/increment.o: C_Pointer_Chapter2/problem281/increment.c.o
+
+.PHONY : C_Pointer_Chapter2/problem281/increment.o
+
+# target to build an object file
+C_Pointer_Chapter2/problem281/increment.c.o:
+	$(MAKE) -f CMakeFiles/ClionProjects.dir/build.make CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem281/increment.c.o
+.PHONY : C_Pointer_Chapter2/problem281/increment.c.o
+
+C_Pointer_Chapter2/problem281/increment.i: C_Pointer_Chapter2/problem281/increment.c.i
+
+.PHONY : C_Pointer_Chapter2/problem281/increment.i
+
+# target to preprocess a source file
+C_Pointer_Chapter2/problem281/increment.c.i:
+	$(MAKE) -f CMakeFiles/ClionProjects.dir/build.make CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem281/increment.c.i
+.PHONY : C_Pointer_Chapter2/problem281/increment.c.i
+
+C_Pointer_Chapter2/problem281/increment.s: C_Pointer_Chapter2/problem281/increment.c.s
+
+.PHONY : C_Pointer_Chapter2/problem281/increment.s
+
+# target to generate assembly for a file
+C_Pointer_Chapter2/problem281/increment.c.s:
+	$(MAKE) -f CMakeFiles/ClionProjects.dir/build.make CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem281/increment.c.s
+.PHONY : C_Pointer_Chapter2/problem281/increment.c.s
+
+C_Pointer_Chapter2/problem281/main.o: C_Pointer_Chapter2/problem281/main.c.o
+
+.PHONY : C_Pointer_Chapter2/problem281/main.o
+
+# target to build an object file
+C_Pointer_Chapter2/problem281/main.c.o:
+	$(MAKE) -f CMakeFiles/ClionProjects.dir/build.make CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem281/main.c.o
+.PHONY : C_Pointer_Chapter2/problem281/main.c.o
+
+C_Pointer_Chapter2/problem281/main.i: C_Pointer_Chapter2/problem281/main.c.i
+
+.PHONY : C_Pointer_Chapter2/problem281/main.i
+
+# target to preprocess a source file
+C_Pointer_Chapter2/problem281/main.c.i:
+	$(MAKE) -f CMakeFiles/ClionProjects.dir/build.make CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem281/main.c.i
+.PHONY : C_Pointer_Chapter2/problem281/main.c.i
+
+C_Pointer_Chapter2/problem281/main.s: C_Pointer_Chapter2/problem281/main.c.s
+
+.PHONY : C_Pointer_Chapter2/problem281/main.s
+
+# target to generate assembly for a file
+C_Pointer_Chapter2/problem281/main.c.s:
+	$(MAKE) -f CMakeFiles/ClionProjects.dir/build.make CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem281/main.c.s
+.PHONY : C_Pointer_Chapter2/problem281/main.c.s
+
+C_Pointer_Chapter2/problem281/negate.o: C_Pointer_Chapter2/problem281/negate.c.o
+
+.PHONY : C_Pointer_Chapter2/problem281/negate.o
+
+# target to build an object file
+C_Pointer_Chapter2/problem281/negate.c.o:
+	$(MAKE) -f CMakeFiles/ClionProjects.dir/build.make CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem281/negate.c.o
+.PHONY : C_Pointer_Chapter2/problem281/negate.c.o
+
+C_Pointer_Chapter2/problem281/negate.i: C_Pointer_Chapter2/problem281/negate.c.i
+
+.PHONY : C_Pointer_Chapter2/problem281/negate.i
+
+# target to preprocess a source file
+C_Pointer_Chapter2/problem281/negate.c.i:
+	$(MAKE) -f CMakeFiles/ClionProjects.dir/build.make CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem281/negate.c.i
+.PHONY : C_Pointer_Chapter2/problem281/negate.c.i
+
+C_Pointer_Chapter2/problem281/negate.s: C_Pointer_Chapter2/problem281/negate.c.s
+
+.PHONY : C_Pointer_Chapter2/problem281/negate.s
+
+# target to generate assembly for a file
+C_Pointer_Chapter2/problem281/negate.c.s:
+	$(MAKE) -f CMakeFiles/ClionProjects.dir/build.make CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem281/negate.c.s
+.PHONY : C_Pointer_Chapter2/problem281/negate.c.s
+
+C_Pointer_Chapter2/problem282/braces.o: C_Pointer_Chapter2/problem282/braces.c.o
+
+.PHONY : C_Pointer_Chapter2/problem282/braces.o
+
+# target to build an object file
+C_Pointer_Chapter2/problem282/braces.c.o:
+	$(MAKE) -f CMakeFiles/ClionProjects.dir/build.make CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem282/braces.c.o
+.PHONY : C_Pointer_Chapter2/problem282/braces.c.o
+
+C_Pointer_Chapter2/problem282/braces.i: C_Pointer_Chapter2/problem282/braces.c.i
+
+.PHONY : C_Pointer_Chapter2/problem282/braces.i
+
+# target to preprocess a source file
+C_Pointer_Chapter2/problem282/braces.c.i:
+	$(MAKE) -f CMakeFiles/ClionProjects.dir/build.make CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem282/braces.c.i
+.PHONY : C_Pointer_Chapter2/problem282/braces.c.i
+
+C_Pointer_Chapter2/problem282/braces.s: C_Pointer_Chapter2/problem282/braces.c.s
+
+.PHONY : C_Pointer_Chapter2/problem282/braces.s
+
+# target to generate assembly for a file
+C_Pointer_Chapter2/problem282/braces.c.s:
+	$(MAKE) -f CMakeFiles/ClionProjects.dir/build.make CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem282/braces.c.s
+.PHONY : C_Pointer_Chapter2/problem282/braces.c.s
+
+OpenSSL/Test.o: OpenSSL/Test.c.o
+
+.PHONY : OpenSSL/Test.o
+
+# target to build an object file
+OpenSSL/Test.c.o:
+	$(MAKE) -f CMakeFiles/ClionProjects.dir/build.make CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.o
+.PHONY : OpenSSL/Test.c.o
+
+OpenSSL/Test.i: OpenSSL/Test.c.i
+
+.PHONY : OpenSSL/Test.i
+
+# target to preprocess a source file
+OpenSSL/Test.c.i:
+	$(MAKE) -f CMakeFiles/ClionProjects.dir/build.make CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.i
+.PHONY : OpenSSL/Test.c.i
+
+OpenSSL/Test.s: OpenSSL/Test.c.s
+
+.PHONY : OpenSSL/Test.s
+
+# target to generate assembly for a file
+OpenSSL/Test.c.s:
+	$(MAKE) -f CMakeFiles/ClionProjects.dir/build.make CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.s
+.PHONY : OpenSSL/Test.c.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -189,6 +351,24 @@ help:
 	@echo "... ArrayTest/ArraySort.o"
 	@echo "... ArrayTest/ArraySort.i"
 	@echo "... ArrayTest/ArraySort.s"
+	@echo "... C_Pointer_Chapter2/Testtrigrph.o"
+	@echo "... C_Pointer_Chapter2/Testtrigrph.i"
+	@echo "... C_Pointer_Chapter2/Testtrigrph.s"
+	@echo "... C_Pointer_Chapter2/problem281/increment.o"
+	@echo "... C_Pointer_Chapter2/problem281/increment.i"
+	@echo "... C_Pointer_Chapter2/problem281/increment.s"
+	@echo "... C_Pointer_Chapter2/problem281/main.o"
+	@echo "... C_Pointer_Chapter2/problem281/main.i"
+	@echo "... C_Pointer_Chapter2/problem281/main.s"
+	@echo "... C_Pointer_Chapter2/problem281/negate.o"
+	@echo "... C_Pointer_Chapter2/problem281/negate.i"
+	@echo "... C_Pointer_Chapter2/problem281/negate.s"
+	@echo "... C_Pointer_Chapter2/problem282/braces.o"
+	@echo "... C_Pointer_Chapter2/problem282/braces.i"
+	@echo "... C_Pointer_Chapter2/problem282/braces.s"
+	@echo "... OpenSSL/Test.o"
+	@echo "... OpenSSL/Test.i"
+	@echo "... OpenSSL/Test.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
