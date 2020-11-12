@@ -111,7 +111,13 @@
 		<Unit filename="/Users/mac/Desktop/CZBKC/ClionProjects/OpenSSL/Test.c">
 			<Option target="ClionProjects"/>
 		</Unit>
+		<Unit filename="/Users/mac/Desktop/CZBKC/ClionProjects/OpenSSL/x509decodeCer.c">
+			<Option target="ClionProjects"/>
+		</Unit>
 		<Unit filename="/Users/mac/Desktop/CZBKC/ClionProjects/main.cpp">
+			<Option target="ClionProjects"/>
+		</Unit>
+		<Unit filename="/Users/mac/Desktop/CZBKC/ClionProjects/testHeader.h">
 			<Option target="ClionProjects"/>
 		</Unit>
 		<Unit filename="/Users/mac/Desktop/CZBKC/ClionProjects/CMakeLists.txt">

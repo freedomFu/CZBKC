@@ -6,6 +6,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem281/negate.c.o"
   "CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem282/braces.c.o"
   "CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.o"
+  "CMakeFiles/ClionProjects.dir/OpenSSL/x509decodeCer.c.o"
   "CMakeFiles/ClionProjects.dir/main.cpp.o"
   "ClionProjects"
   "ClionProjects.pdb"

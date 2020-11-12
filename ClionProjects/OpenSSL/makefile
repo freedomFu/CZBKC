@@ -1,8 +1,15 @@
-Test : Test.o
-	gcc Test.o -o Test -lcrypto
+objects = x509decodeCer.o
 
-Test.o : Test.c
-	gcc Test.c -c
+VPATH = ../ArrayTest
+
+TestExec : $(objects)
+	gcc $(objects) -o TestExec -lcrypto
+
+x509decodeCer.o : testHeader.h
+
+.PHONY : clean
 
 clean :
-	rm Test Test.o
+	-rm TestExec
+	-rm $(objects)
+	cat x509decodeCer.c

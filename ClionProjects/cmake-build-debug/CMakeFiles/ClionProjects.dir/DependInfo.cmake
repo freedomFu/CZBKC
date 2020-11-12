@@ -12,6 +12,7 @@ set(CMAKE_DEPENDS_CHECK_C
   "/Users/mac/Desktop/CZBKC/ClionProjects/C_Pointer_Chapter2/problem281/negate.c" "/Users/mac/Desktop/CZBKC/ClionProjects/cmake-build-debug/CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem281/negate.c.o"
   "/Users/mac/Desktop/CZBKC/ClionProjects/C_Pointer_Chapter2/problem282/braces.c" "/Users/mac/Desktop/CZBKC/ClionProjects/cmake-build-debug/CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem282/braces.c.o"
   "/Users/mac/Desktop/CZBKC/ClionProjects/OpenSSL/Test.c" "/Users/mac/Desktop/CZBKC/ClionProjects/cmake-build-debug/CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.o"
+  "/Users/mac/Desktop/CZBKC/ClionProjects/OpenSSL/x509decodeCer.c" "/Users/mac/Desktop/CZBKC/ClionProjects/cmake-build-debug/CMakeFiles/ClionProjects.dir/OpenSSL/x509decodeCer.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 

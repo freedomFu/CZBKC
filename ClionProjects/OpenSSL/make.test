@@ -1,0 +1,13 @@
+include test
+
+objects = x509decodeCer.o
+
+TestExec : $(objects)
+	gcc $(objects) -o TestExec -lcrypto
+
+x509decodeCer.o :
+
+.PHONY : clean
+
+clean :
+	-rm TestExec $(objects)
