@@ -87,6 +87,9 @@
 		<Unit filename="/Users/mac/Desktop/CZBKC/ClionProjects/ArrayTest/ArraySort.c">
 			<Option target="ClionProjects"/>
 		</Unit>
+		<Unit filename="/Users/mac/Desktop/CZBKC/ClionProjects/ArrayTest/testHeader.h">
+			<Option target="ClionProjects"/>
+		</Unit>
 		<Unit filename="/Users/mac/Desktop/CZBKC/ClionProjects/C_Pointer_Chapter2/Testtrigrph.c">
 			<Option target="ClionProjects"/>
 		</Unit>
@@ -115,9 +118,6 @@
 			<Option target="ClionProjects"/>
 		</Unit>
 		<Unit filename="/Users/mac/Desktop/CZBKC/ClionProjects/main.cpp">
-			<Option target="ClionProjects"/>
-		</Unit>
-		<Unit filename="/Users/mac/Desktop/CZBKC/ClionProjects/testHeader.h">
 			<Option target="ClionProjects"/>
 		</Unit>
 		<Unit filename="/Users/mac/Desktop/CZBKC/ClionProjects/CMakeLists.txt">
