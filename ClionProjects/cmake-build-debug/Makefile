@@ -150,6 +150,60 @@ ArrayTest/ArraySort.c.s:
 	$(MAKE) -f CMakeFiles/ClionProjects.dir/build.make CMakeFiles/ClionProjects.dir/ArrayTest/ArraySort.c.s
 .PHONY : ArrayTest/ArraySort.c.s
 
+CAlgorithm/Test/test2.o: CAlgorithm/Test/test2.c.o
+
+.PHONY : CAlgorithm/Test/test2.o
+
+# target to build an object file
+CAlgorithm/Test/test2.c.o:
+	$(MAKE) -f CMakeFiles/ClionProjects.dir/build.make CMakeFiles/ClionProjects.dir/CAlgorithm/Test/test2.c.o
+.PHONY : CAlgorithm/Test/test2.c.o
+
+CAlgorithm/Test/test2.i: CAlgorithm/Test/test2.c.i
+
+.PHONY : CAlgorithm/Test/test2.i
+
+# target to preprocess a source file
+CAlgorithm/Test/test2.c.i:
+	$(MAKE) -f CMakeFiles/ClionProjects.dir/build.make CMakeFiles/ClionProjects.dir/CAlgorithm/Test/test2.c.i
+.PHONY : CAlgorithm/Test/test2.c.i
+
+CAlgorithm/Test/test2.s: CAlgorithm/Test/test2.c.s
+
+.PHONY : CAlgorithm/Test/test2.s
+
+# target to generate assembly for a file
+CAlgorithm/Test/test2.c.s:
+	$(MAKE) -f CMakeFiles/ClionProjects.dir/build.make CMakeFiles/ClionProjects.dir/CAlgorithm/Test/test2.c.s
+.PHONY : CAlgorithm/Test/test2.c.s
+
+CAlgorithm/Test/testchar.o: CAlgorithm/Test/testchar.c.o
+
+.PHONY : CAlgorithm/Test/testchar.o
+
+# target to build an object file
+CAlgorithm/Test/testchar.c.o:
+	$(MAKE) -f CMakeFiles/ClionProjects.dir/build.make CMakeFiles/ClionProjects.dir/CAlgorithm/Test/testchar.c.o
+.PHONY : CAlgorithm/Test/testchar.c.o
+
+CAlgorithm/Test/testchar.i: CAlgorithm/Test/testchar.c.i
+
+.PHONY : CAlgorithm/Test/testchar.i
+
+# target to preprocess a source file
+CAlgorithm/Test/testchar.c.i:
+	$(MAKE) -f CMakeFiles/ClionProjects.dir/build.make CMakeFiles/ClionProjects.dir/CAlgorithm/Test/testchar.c.i
+.PHONY : CAlgorithm/Test/testchar.c.i
+
+CAlgorithm/Test/testchar.s: CAlgorithm/Test/testchar.c.s
+
+.PHONY : CAlgorithm/Test/testchar.s
+
+# target to generate assembly for a file
+CAlgorithm/Test/testchar.c.s:
+	$(MAKE) -f CMakeFiles/ClionProjects.dir/build.make CMakeFiles/ClionProjects.dir/CAlgorithm/Test/testchar.c.s
+.PHONY : CAlgorithm/Test/testchar.c.s
+
 C_Pointer_Chapter2/Testtrigrph.o: C_Pointer_Chapter2/Testtrigrph.c.o
 
 .PHONY : C_Pointer_Chapter2/Testtrigrph.o
@@ -378,6 +432,12 @@ help:
 	@echo "... ArrayTest/ArraySort.o"
 	@echo "... ArrayTest/ArraySort.i"
 	@echo "... ArrayTest/ArraySort.s"
+	@echo "... CAlgorithm/Test/test2.o"
+	@echo "... CAlgorithm/Test/test2.i"
+	@echo "... CAlgorithm/Test/test2.s"
+	@echo "... CAlgorithm/Test/testchar.o"
+	@echo "... CAlgorithm/Test/testchar.i"
+	@echo "... CAlgorithm/Test/testchar.s"
 	@echo "... C_Pointer_Chapter2/Testtrigrph.o"
 	@echo "... C_Pointer_Chapter2/Testtrigrph.i"
 	@echo "... C_Pointer_Chapter2/Testtrigrph.s"

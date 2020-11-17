@@ -6,6 +6,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
   "/Users/mac/Desktop/CZBKC/ClionProjects/ArrayTest/ArraySort.c" "/Users/mac/Desktop/CZBKC/ClionProjects/cmake-build-debug/CMakeFiles/ClionProjects.dir/ArrayTest/ArraySort.c.o"
+  "/Users/mac/Desktop/CZBKC/ClionProjects/CAlgorithm/Test/test2.c" "/Users/mac/Desktop/CZBKC/ClionProjects/cmake-build-debug/CMakeFiles/ClionProjects.dir/CAlgorithm/Test/test2.c.o"
+  "/Users/mac/Desktop/CZBKC/ClionProjects/CAlgorithm/Test/testchar.c" "/Users/mac/Desktop/CZBKC/ClionProjects/cmake-build-debug/CMakeFiles/ClionProjects.dir/CAlgorithm/Test/testchar.c.o"
   "/Users/mac/Desktop/CZBKC/ClionProjects/C_Pointer_Chapter2/Testtrigrph.c" "/Users/mac/Desktop/CZBKC/ClionProjects/cmake-build-debug/CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/Testtrigrph.c.o"
   "/Users/mac/Desktop/CZBKC/ClionProjects/C_Pointer_Chapter2/problem281/increment.c" "/Users/mac/Desktop/CZBKC/ClionProjects/cmake-build-debug/CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem281/increment.c.o"
   "/Users/mac/Desktop/CZBKC/ClionProjects/C_Pointer_Chapter2/problem281/main.c" "/Users/mac/Desktop/CZBKC/ClionProjects/cmake-build-debug/CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem281/main.c.o"
