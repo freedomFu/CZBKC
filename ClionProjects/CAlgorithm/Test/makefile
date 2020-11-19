@@ -1,24 +1,17 @@
-objects = *.o
-execobj = testchar test2
-paths = ../Test2   #dasds
-
-define two-lines
-	echo foo
-	echo $(execobj)
-endef
+objects = testchar.o
+execobj = testchar
 
 all : $(execobj)
+	@rm $(objects)
+
+$(execobj) : $(objects)
+	gcc $^ -o $@
 
 .PHONY : all clean
 
-$(execobj) : % : %.o
-
-$(objects) : %.o : %.c
-	$(cc) -c $(CFLAGS) $< -o $@
-
-
-
+%.o : %.c
+	gcc -c $< -o $@
 
 clean :
-	-rm ${execobj}
+	-rm $(execobj)
 
