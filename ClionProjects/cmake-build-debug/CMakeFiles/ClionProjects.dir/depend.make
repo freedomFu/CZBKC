@@ -3,6 +3,12 @@
 
 CMakeFiles/ClionProjects.dir/ArrayTest/ArraySort.c.o: ../ArrayTest/ArraySort.c
 
+CMakeFiles/ClionProjects.dir/CAlgorithm/Test/registertest.c.o: ../CAlgorithm/Test/registertest.c
+
+CMakeFiles/ClionProjects.dir/CAlgorithm/Test/test2.c.o: ../CAlgorithm/Test/test2.c
+
+CMakeFiles/ClionProjects.dir/CAlgorithm/Test/testchar.c.o: ../CAlgorithm/Test/testchar.c
+
 CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/Testtrigrph.c.o: ../C_Pointer_Chapter2/Testtrigrph.c
 
 CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem281/increment.c.o: ../C_Pointer_Chapter2/problem281/increment.c
@@ -18,12 +24,94 @@ CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem281/negate.c.o: ../C_Poin
 CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem282/braces.c.o: ../C_Pointer_Chapter2/problem282/braces.c
 
 CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.o: ../OpenSSL/Test.c
+CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.o: /usr/local/openssl/include/openssl/asn1.h
+CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.o: /usr/local/openssl/include/openssl/asn1err.h
+CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.o: /usr/local/openssl/include/openssl/bio.h
+CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.o: /usr/local/openssl/include/openssl/bioerr.h
+CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.o: /usr/local/openssl/include/openssl/bn.h
+CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.o: /usr/local/openssl/include/openssl/bnerr.h
+CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.o: /usr/local/openssl/include/openssl/buffer.h
+CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.o: /usr/local/openssl/include/openssl/buffererr.h
 CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.o: /usr/local/openssl/include/openssl/configuration.h
+CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.o: /usr/local/openssl/include/openssl/core.h
+CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.o: /usr/local/openssl/include/openssl/crypto.h
+CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.o: /usr/local/openssl/include/openssl/cryptoerr.h
+CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.o: /usr/local/openssl/include/openssl/dh.h
+CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.o: /usr/local/openssl/include/openssl/dherr.h
+CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.o: /usr/local/openssl/include/openssl/dsa.h
+CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.o: /usr/local/openssl/include/openssl/dsaerr.h
 CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.o: /usr/local/openssl/include/openssl/e_os2.h
+CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.o: /usr/local/openssl/include/openssl/ebcdic.h
+CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.o: /usr/local/openssl/include/openssl/ec.h
+CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.o: /usr/local/openssl/include/openssl/ecerr.h
+CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.o: /usr/local/openssl/include/openssl/evp.h
+CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.o: /usr/local/openssl/include/openssl/evperr.h
+CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.o: /usr/local/openssl/include/openssl/lhash.h
 CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.o: /usr/local/openssl/include/openssl/macros.h
+CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.o: /usr/local/openssl/include/openssl/obj_mac.h
+CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.o: /usr/local/openssl/include/openssl/objects.h
+CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.o: /usr/local/openssl/include/openssl/objectserr.h
 CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.o: /usr/local/openssl/include/openssl/opensslconf.h
 CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.o: /usr/local/openssl/include/openssl/opensslv.h
+CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.o: /usr/local/openssl/include/openssl/params.h
+CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.o: /usr/local/openssl/include/openssl/pkcs7.h
+CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.o: /usr/local/openssl/include/openssl/pkcs7err.h
+CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.o: /usr/local/openssl/include/openssl/rsa.h
+CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.o: /usr/local/openssl/include/openssl/rsaerr.h
+CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.o: /usr/local/openssl/include/openssl/safestack.h
 CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.o: /usr/local/openssl/include/openssl/sha.h
+CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.o: /usr/local/openssl/include/openssl/stack.h
+CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.o: /usr/local/openssl/include/openssl/symhacks.h
+CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.o: /usr/local/openssl/include/openssl/types.h
+CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.o: /usr/local/openssl/include/openssl/x509.h
+CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.o: /usr/local/openssl/include/openssl/x509_vfy.h
+CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.o: /usr/local/openssl/include/openssl/x509err.h
+
+CMakeFiles/ClionProjects.dir/OpenSSL/x509decodeCer.c.o: ../OpenSSL/x509decodeCer.c
+CMakeFiles/ClionProjects.dir/OpenSSL/x509decodeCer.c.o: /usr/local/openssl/include/openssl/asn1.h
+CMakeFiles/ClionProjects.dir/OpenSSL/x509decodeCer.c.o: /usr/local/openssl/include/openssl/asn1err.h
+CMakeFiles/ClionProjects.dir/OpenSSL/x509decodeCer.c.o: /usr/local/openssl/include/openssl/bio.h
+CMakeFiles/ClionProjects.dir/OpenSSL/x509decodeCer.c.o: /usr/local/openssl/include/openssl/bioerr.h
+CMakeFiles/ClionProjects.dir/OpenSSL/x509decodeCer.c.o: /usr/local/openssl/include/openssl/bn.h
+CMakeFiles/ClionProjects.dir/OpenSSL/x509decodeCer.c.o: /usr/local/openssl/include/openssl/bnerr.h
+CMakeFiles/ClionProjects.dir/OpenSSL/x509decodeCer.c.o: /usr/local/openssl/include/openssl/buffer.h
+CMakeFiles/ClionProjects.dir/OpenSSL/x509decodeCer.c.o: /usr/local/openssl/include/openssl/buffererr.h
+CMakeFiles/ClionProjects.dir/OpenSSL/x509decodeCer.c.o: /usr/local/openssl/include/openssl/configuration.h
+CMakeFiles/ClionProjects.dir/OpenSSL/x509decodeCer.c.o: /usr/local/openssl/include/openssl/core.h
+CMakeFiles/ClionProjects.dir/OpenSSL/x509decodeCer.c.o: /usr/local/openssl/include/openssl/crypto.h
+CMakeFiles/ClionProjects.dir/OpenSSL/x509decodeCer.c.o: /usr/local/openssl/include/openssl/cryptoerr.h
+CMakeFiles/ClionProjects.dir/OpenSSL/x509decodeCer.c.o: /usr/local/openssl/include/openssl/dh.h
+CMakeFiles/ClionProjects.dir/OpenSSL/x509decodeCer.c.o: /usr/local/openssl/include/openssl/dherr.h
+CMakeFiles/ClionProjects.dir/OpenSSL/x509decodeCer.c.o: /usr/local/openssl/include/openssl/dsa.h
+CMakeFiles/ClionProjects.dir/OpenSSL/x509decodeCer.c.o: /usr/local/openssl/include/openssl/dsaerr.h
+CMakeFiles/ClionProjects.dir/OpenSSL/x509decodeCer.c.o: /usr/local/openssl/include/openssl/e_os2.h
+CMakeFiles/ClionProjects.dir/OpenSSL/x509decodeCer.c.o: /usr/local/openssl/include/openssl/ebcdic.h
+CMakeFiles/ClionProjects.dir/OpenSSL/x509decodeCer.c.o: /usr/local/openssl/include/openssl/ec.h
+CMakeFiles/ClionProjects.dir/OpenSSL/x509decodeCer.c.o: /usr/local/openssl/include/openssl/ecerr.h
+CMakeFiles/ClionProjects.dir/OpenSSL/x509decodeCer.c.o: /usr/local/openssl/include/openssl/evp.h
+CMakeFiles/ClionProjects.dir/OpenSSL/x509decodeCer.c.o: /usr/local/openssl/include/openssl/evperr.h
+CMakeFiles/ClionProjects.dir/OpenSSL/x509decodeCer.c.o: /usr/local/openssl/include/openssl/lhash.h
+CMakeFiles/ClionProjects.dir/OpenSSL/x509decodeCer.c.o: /usr/local/openssl/include/openssl/macros.h
+CMakeFiles/ClionProjects.dir/OpenSSL/x509decodeCer.c.o: /usr/local/openssl/include/openssl/obj_mac.h
+CMakeFiles/ClionProjects.dir/OpenSSL/x509decodeCer.c.o: /usr/local/openssl/include/openssl/objects.h
+CMakeFiles/ClionProjects.dir/OpenSSL/x509decodeCer.c.o: /usr/local/openssl/include/openssl/objectserr.h
+CMakeFiles/ClionProjects.dir/OpenSSL/x509decodeCer.c.o: /usr/local/openssl/include/openssl/opensslconf.h
+CMakeFiles/ClionProjects.dir/OpenSSL/x509decodeCer.c.o: /usr/local/openssl/include/openssl/opensslv.h
+CMakeFiles/ClionProjects.dir/OpenSSL/x509decodeCer.c.o: /usr/local/openssl/include/openssl/params.h
+CMakeFiles/ClionProjects.dir/OpenSSL/x509decodeCer.c.o: /usr/local/openssl/include/openssl/pem.h
+CMakeFiles/ClionProjects.dir/OpenSSL/x509decodeCer.c.o: /usr/local/openssl/include/openssl/pemerr.h
+CMakeFiles/ClionProjects.dir/OpenSSL/x509decodeCer.c.o: /usr/local/openssl/include/openssl/pkcs7.h
+CMakeFiles/ClionProjects.dir/OpenSSL/x509decodeCer.c.o: /usr/local/openssl/include/openssl/pkcs7err.h
+CMakeFiles/ClionProjects.dir/OpenSSL/x509decodeCer.c.o: /usr/local/openssl/include/openssl/rsa.h
+CMakeFiles/ClionProjects.dir/OpenSSL/x509decodeCer.c.o: /usr/local/openssl/include/openssl/rsaerr.h
+CMakeFiles/ClionProjects.dir/OpenSSL/x509decodeCer.c.o: /usr/local/openssl/include/openssl/safestack.h
+CMakeFiles/ClionProjects.dir/OpenSSL/x509decodeCer.c.o: /usr/local/openssl/include/openssl/sha.h
+CMakeFiles/ClionProjects.dir/OpenSSL/x509decodeCer.c.o: /usr/local/openssl/include/openssl/stack.h
+CMakeFiles/ClionProjects.dir/OpenSSL/x509decodeCer.c.o: /usr/local/openssl/include/openssl/symhacks.h
+CMakeFiles/ClionProjects.dir/OpenSSL/x509decodeCer.c.o: /usr/local/openssl/include/openssl/types.h
+CMakeFiles/ClionProjects.dir/OpenSSL/x509decodeCer.c.o: /usr/local/openssl/include/openssl/x509.h
+CMakeFiles/ClionProjects.dir/OpenSSL/x509decodeCer.c.o: /usr/local/openssl/include/openssl/x509_vfy.h
+CMakeFiles/ClionProjects.dir/OpenSSL/x509decodeCer.c.o: /usr/local/openssl/include/openssl/x509err.h
 
 CMakeFiles/ClionProjects.dir/main.cpp.o: ../main.cpp
 

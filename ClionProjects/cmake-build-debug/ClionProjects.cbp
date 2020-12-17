@@ -90,7 +90,13 @@
 		<Unit filename="/Users/mac/Desktop/CZBKC/ClionProjects/ArrayTest/testHeader.h">
 			<Option target="ClionProjects"/>
 		</Unit>
+		<Unit filename="/Users/mac/Desktop/CZBKC/ClionProjects/CAlgorithm/Test/registertest.c">
+			<Option target="ClionProjects"/>
+		</Unit>
 		<Unit filename="/Users/mac/Desktop/CZBKC/ClionProjects/CAlgorithm/Test/test2.c">
+			<Option target="ClionProjects"/>
+		</Unit>
+		<Unit filename="/Users/mac/Desktop/CZBKC/ClionProjects/CAlgorithm/Test/testarray.c">
 			<Option target="ClionProjects"/>
 		</Unit>
 		<Unit filename="/Users/mac/Desktop/CZBKC/ClionProjects/CAlgorithm/Test/testchar.c">

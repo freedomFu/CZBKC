@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/ClionProjects.dir/ArrayTest/ArraySort.c.o"
+  "CMakeFiles/ClionProjects.dir/CAlgorithm/Test/registertest.c.o"
   "CMakeFiles/ClionProjects.dir/CAlgorithm/Test/test2.c.o"
+  "CMakeFiles/ClionProjects.dir/CAlgorithm/Test/testarray.c.o"
   "CMakeFiles/ClionProjects.dir/CAlgorithm/Test/testchar.c.o"
   "CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/Testtrigrph.c.o"
   "CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem281/increment.c.o"

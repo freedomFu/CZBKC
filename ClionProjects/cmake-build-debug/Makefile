@@ -150,6 +150,33 @@ ArrayTest/ArraySort.c.s:
 	$(MAKE) -f CMakeFiles/ClionProjects.dir/build.make CMakeFiles/ClionProjects.dir/ArrayTest/ArraySort.c.s
 .PHONY : ArrayTest/ArraySort.c.s
 
+CAlgorithm/Test/registertest.o: CAlgorithm/Test/registertest.c.o
+
+.PHONY : CAlgorithm/Test/registertest.o
+
+# target to build an object file
+CAlgorithm/Test/registertest.c.o:
+	$(MAKE) -f CMakeFiles/ClionProjects.dir/build.make CMakeFiles/ClionProjects.dir/CAlgorithm/Test/registertest.c.o
+.PHONY : CAlgorithm/Test/registertest.c.o
+
+CAlgorithm/Test/registertest.i: CAlgorithm/Test/registertest.c.i
+
+.PHONY : CAlgorithm/Test/registertest.i
+
+# target to preprocess a source file
+CAlgorithm/Test/registertest.c.i:
+	$(MAKE) -f CMakeFiles/ClionProjects.dir/build.make CMakeFiles/ClionProjects.dir/CAlgorithm/Test/registertest.c.i
+.PHONY : CAlgorithm/Test/registertest.c.i
+
+CAlgorithm/Test/registertest.s: CAlgorithm/Test/registertest.c.s
+
+.PHONY : CAlgorithm/Test/registertest.s
+
+# target to generate assembly for a file
+CAlgorithm/Test/registertest.c.s:
+	$(MAKE) -f CMakeFiles/ClionProjects.dir/build.make CMakeFiles/ClionProjects.dir/CAlgorithm/Test/registertest.c.s
+.PHONY : CAlgorithm/Test/registertest.c.s
+
 CAlgorithm/Test/test2.o: CAlgorithm/Test/test2.c.o
 
 .PHONY : CAlgorithm/Test/test2.o
@@ -176,6 +203,33 @@ CAlgorithm/Test/test2.s: CAlgorithm/Test/test2.c.s
 CAlgorithm/Test/test2.c.s:
 	$(MAKE) -f CMakeFiles/ClionProjects.dir/build.make CMakeFiles/ClionProjects.dir/CAlgorithm/Test/test2.c.s
 .PHONY : CAlgorithm/Test/test2.c.s
+
+CAlgorithm/Test/testarray.o: CAlgorithm/Test/testarray.c.o
+
+.PHONY : CAlgorithm/Test/testarray.o
+
+# target to build an object file
+CAlgorithm/Test/testarray.c.o:
+	$(MAKE) -f CMakeFiles/ClionProjects.dir/build.make CMakeFiles/ClionProjects.dir/CAlgorithm/Test/testarray.c.o
+.PHONY : CAlgorithm/Test/testarray.c.o
+
+CAlgorithm/Test/testarray.i: CAlgorithm/Test/testarray.c.i
+
+.PHONY : CAlgorithm/Test/testarray.i
+
+# target to preprocess a source file
+CAlgorithm/Test/testarray.c.i:
+	$(MAKE) -f CMakeFiles/ClionProjects.dir/build.make CMakeFiles/ClionProjects.dir/CAlgorithm/Test/testarray.c.i
+.PHONY : CAlgorithm/Test/testarray.c.i
+
+CAlgorithm/Test/testarray.s: CAlgorithm/Test/testarray.c.s
+
+.PHONY : CAlgorithm/Test/testarray.s
+
+# target to generate assembly for a file
+CAlgorithm/Test/testarray.c.s:
+	$(MAKE) -f CMakeFiles/ClionProjects.dir/build.make CMakeFiles/ClionProjects.dir/CAlgorithm/Test/testarray.c.s
+.PHONY : CAlgorithm/Test/testarray.c.s
 
 CAlgorithm/Test/testchar.o: CAlgorithm/Test/testchar.c.o
 
@@ -432,9 +486,15 @@ help:
 	@echo "... ArrayTest/ArraySort.o"
 	@echo "... ArrayTest/ArraySort.i"
 	@echo "... ArrayTest/ArraySort.s"
+	@echo "... CAlgorithm/Test/registertest.o"
+	@echo "... CAlgorithm/Test/registertest.i"
+	@echo "... CAlgorithm/Test/registertest.s"
 	@echo "... CAlgorithm/Test/test2.o"
 	@echo "... CAlgorithm/Test/test2.i"
 	@echo "... CAlgorithm/Test/test2.s"
+	@echo "... CAlgorithm/Test/testarray.o"
+	@echo "... CAlgorithm/Test/testarray.i"
+	@echo "... CAlgorithm/Test/testarray.s"
 	@echo "... CAlgorithm/Test/testchar.o"
 	@echo "... CAlgorithm/Test/testchar.i"
 	@echo "... CAlgorithm/Test/testchar.s"

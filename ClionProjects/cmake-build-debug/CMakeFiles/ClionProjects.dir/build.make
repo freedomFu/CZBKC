@@ -200,6 +200,32 @@ CMakeFiles/ClionProjects.dir/CAlgorithm/Test/test2.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ClionProjects.dir/CAlgorithm/Test/test2.c.s"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mac/Desktop/CZBKC/ClionProjects/CAlgorithm/Test/test2.c -o CMakeFiles/ClionProjects.dir/CAlgorithm/Test/test2.c.s
 
+CMakeFiles/ClionProjects.dir/CAlgorithm/Test/registertest.c.o: CMakeFiles/ClionProjects.dir/flags.make
+CMakeFiles/ClionProjects.dir/CAlgorithm/Test/registertest.c.o: ../CAlgorithm/Test/registertest.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mac/Desktop/CZBKC/ClionProjects/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/ClionProjects.dir/CAlgorithm/Test/registertest.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ClionProjects.dir/CAlgorithm/Test/registertest.c.o   -c /Users/mac/Desktop/CZBKC/ClionProjects/CAlgorithm/Test/registertest.c
+
+CMakeFiles/ClionProjects.dir/CAlgorithm/Test/registertest.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ClionProjects.dir/CAlgorithm/Test/registertest.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mac/Desktop/CZBKC/ClionProjects/CAlgorithm/Test/registertest.c > CMakeFiles/ClionProjects.dir/CAlgorithm/Test/registertest.c.i
+
+CMakeFiles/ClionProjects.dir/CAlgorithm/Test/registertest.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ClionProjects.dir/CAlgorithm/Test/registertest.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mac/Desktop/CZBKC/ClionProjects/CAlgorithm/Test/registertest.c -o CMakeFiles/ClionProjects.dir/CAlgorithm/Test/registertest.c.s
+
+CMakeFiles/ClionProjects.dir/CAlgorithm/Test/testarray.c.o: CMakeFiles/ClionProjects.dir/flags.make
+CMakeFiles/ClionProjects.dir/CAlgorithm/Test/testarray.c.o: ../CAlgorithm/Test/testarray.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mac/Desktop/CZBKC/ClionProjects/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/ClionProjects.dir/CAlgorithm/Test/testarray.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ClionProjects.dir/CAlgorithm/Test/testarray.c.o   -c /Users/mac/Desktop/CZBKC/ClionProjects/CAlgorithm/Test/testarray.c
+
+CMakeFiles/ClionProjects.dir/CAlgorithm/Test/testarray.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ClionProjects.dir/CAlgorithm/Test/testarray.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mac/Desktop/CZBKC/ClionProjects/CAlgorithm/Test/testarray.c > CMakeFiles/ClionProjects.dir/CAlgorithm/Test/testarray.c.i
+
+CMakeFiles/ClionProjects.dir/CAlgorithm/Test/testarray.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ClionProjects.dir/CAlgorithm/Test/testarray.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mac/Desktop/CZBKC/ClionProjects/CAlgorithm/Test/testarray.c -o CMakeFiles/ClionProjects.dir/CAlgorithm/Test/testarray.c.s
+
 # Object files for target ClionProjects
 ClionProjects_OBJECTS = \
 "CMakeFiles/ClionProjects.dir/main.cpp.o" \
@@ -212,7 +238,9 @@ ClionProjects_OBJECTS = \
 "CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.o" \
 "CMakeFiles/ClionProjects.dir/OpenSSL/x509decodeCer.c.o" \
 "CMakeFiles/ClionProjects.dir/CAlgorithm/Test/testchar.c.o" \
-"CMakeFiles/ClionProjects.dir/CAlgorithm/Test/test2.c.o"
+"CMakeFiles/ClionProjects.dir/CAlgorithm/Test/test2.c.o" \
+"CMakeFiles/ClionProjects.dir/CAlgorithm/Test/registertest.c.o" \
+"CMakeFiles/ClionProjects.dir/CAlgorithm/Test/testarray.c.o"
 
 # External object files for target ClionProjects
 ClionProjects_EXTERNAL_OBJECTS =
@@ -228,9 +256,11 @@ ClionProjects: CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.o
 ClionProjects: CMakeFiles/ClionProjects.dir/OpenSSL/x509decodeCer.c.o
 ClionProjects: CMakeFiles/ClionProjects.dir/CAlgorithm/Test/testchar.c.o
 ClionProjects: CMakeFiles/ClionProjects.dir/CAlgorithm/Test/test2.c.o
+ClionProjects: CMakeFiles/ClionProjects.dir/CAlgorithm/Test/registertest.c.o
+ClionProjects: CMakeFiles/ClionProjects.dir/CAlgorithm/Test/testarray.c.o
 ClionProjects: CMakeFiles/ClionProjects.dir/build.make
 ClionProjects: CMakeFiles/ClionProjects.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/mac/Desktop/CZBKC/ClionProjects/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Linking CXX executable ClionProjects"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/mac/Desktop/CZBKC/ClionProjects/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Linking CXX executable ClionProjects"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/ClionProjects.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

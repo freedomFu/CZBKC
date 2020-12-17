@@ -3,6 +3,12 @@
 
 CMakeFiles/ClionProjects.dir/ArrayTest/ArraySort.c.o
  /Users/mac/Desktop/CZBKC/ClionProjects/ArrayTest/ArraySort.c
+CMakeFiles/ClionProjects.dir/CAlgorithm/Test/registertest.c.o
+ /Users/mac/Desktop/CZBKC/ClionProjects/CAlgorithm/Test/registertest.c
+CMakeFiles/ClionProjects.dir/CAlgorithm/Test/test2.c.o
+ /Users/mac/Desktop/CZBKC/ClionProjects/CAlgorithm/Test/test2.c
+CMakeFiles/ClionProjects.dir/CAlgorithm/Test/testchar.c.o
+ /Users/mac/Desktop/CZBKC/ClionProjects/CAlgorithm/Test/testchar.c
 CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/Testtrigrph.c.o
  /Users/mac/Desktop/CZBKC/ClionProjects/C_Pointer_Chapter2/Testtrigrph.c
 CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem281/increment.c.o
@@ -19,11 +25,93 @@ CMakeFiles/ClionProjects.dir/C_Pointer_Chapter2/problem282/braces.c.o
  /Users/mac/Desktop/CZBKC/ClionProjects/C_Pointer_Chapter2/problem282/braces.c
 CMakeFiles/ClionProjects.dir/OpenSSL/Test.c.o
  /Users/mac/Desktop/CZBKC/ClionProjects/OpenSSL/Test.c
+ /usr/local/openssl/include/openssl/asn1.h
+ /usr/local/openssl/include/openssl/asn1err.h
+ /usr/local/openssl/include/openssl/bio.h
+ /usr/local/openssl/include/openssl/bioerr.h
+ /usr/local/openssl/include/openssl/bn.h
+ /usr/local/openssl/include/openssl/bnerr.h
+ /usr/local/openssl/include/openssl/buffer.h
+ /usr/local/openssl/include/openssl/buffererr.h
  /usr/local/openssl/include/openssl/configuration.h
+ /usr/local/openssl/include/openssl/core.h
+ /usr/local/openssl/include/openssl/crypto.h
+ /usr/local/openssl/include/openssl/cryptoerr.h
+ /usr/local/openssl/include/openssl/dh.h
+ /usr/local/openssl/include/openssl/dherr.h
+ /usr/local/openssl/include/openssl/dsa.h
+ /usr/local/openssl/include/openssl/dsaerr.h
  /usr/local/openssl/include/openssl/e_os2.h
+ /usr/local/openssl/include/openssl/ebcdic.h
+ /usr/local/openssl/include/openssl/ec.h
+ /usr/local/openssl/include/openssl/ecerr.h
+ /usr/local/openssl/include/openssl/evp.h
+ /usr/local/openssl/include/openssl/evperr.h
+ /usr/local/openssl/include/openssl/lhash.h
  /usr/local/openssl/include/openssl/macros.h
+ /usr/local/openssl/include/openssl/obj_mac.h
+ /usr/local/openssl/include/openssl/objects.h
+ /usr/local/openssl/include/openssl/objectserr.h
  /usr/local/openssl/include/openssl/opensslconf.h
  /usr/local/openssl/include/openssl/opensslv.h
+ /usr/local/openssl/include/openssl/params.h
+ /usr/local/openssl/include/openssl/pkcs7.h
+ /usr/local/openssl/include/openssl/pkcs7err.h
+ /usr/local/openssl/include/openssl/rsa.h
+ /usr/local/openssl/include/openssl/rsaerr.h
+ /usr/local/openssl/include/openssl/safestack.h
  /usr/local/openssl/include/openssl/sha.h
+ /usr/local/openssl/include/openssl/stack.h
+ /usr/local/openssl/include/openssl/symhacks.h
+ /usr/local/openssl/include/openssl/types.h
+ /usr/local/openssl/include/openssl/x509.h
+ /usr/local/openssl/include/openssl/x509_vfy.h
+ /usr/local/openssl/include/openssl/x509err.h
+CMakeFiles/ClionProjects.dir/OpenSSL/x509decodeCer.c.o
+ /Users/mac/Desktop/CZBKC/ClionProjects/OpenSSL/x509decodeCer.c
+ /usr/local/openssl/include/openssl/asn1.h
+ /usr/local/openssl/include/openssl/asn1err.h
+ /usr/local/openssl/include/openssl/bio.h
+ /usr/local/openssl/include/openssl/bioerr.h
+ /usr/local/openssl/include/openssl/bn.h
+ /usr/local/openssl/include/openssl/bnerr.h
+ /usr/local/openssl/include/openssl/buffer.h
+ /usr/local/openssl/include/openssl/buffererr.h
+ /usr/local/openssl/include/openssl/configuration.h
+ /usr/local/openssl/include/openssl/core.h
+ /usr/local/openssl/include/openssl/crypto.h
+ /usr/local/openssl/include/openssl/cryptoerr.h
+ /usr/local/openssl/include/openssl/dh.h
+ /usr/local/openssl/include/openssl/dherr.h
+ /usr/local/openssl/include/openssl/dsa.h
+ /usr/local/openssl/include/openssl/dsaerr.h
+ /usr/local/openssl/include/openssl/e_os2.h
+ /usr/local/openssl/include/openssl/ebcdic.h
+ /usr/local/openssl/include/openssl/ec.h
+ /usr/local/openssl/include/openssl/ecerr.h
+ /usr/local/openssl/include/openssl/evp.h
+ /usr/local/openssl/include/openssl/evperr.h
+ /usr/local/openssl/include/openssl/lhash.h
+ /usr/local/openssl/include/openssl/macros.h
+ /usr/local/openssl/include/openssl/obj_mac.h
+ /usr/local/openssl/include/openssl/objects.h
+ /usr/local/openssl/include/openssl/objectserr.h
+ /usr/local/openssl/include/openssl/opensslconf.h
+ /usr/local/openssl/include/openssl/opensslv.h
+ /usr/local/openssl/include/openssl/params.h
+ /usr/local/openssl/include/openssl/pem.h
+ /usr/local/openssl/include/openssl/pemerr.h
+ /usr/local/openssl/include/openssl/pkcs7.h
+ /usr/local/openssl/include/openssl/pkcs7err.h
+ /usr/local/openssl/include/openssl/rsa.h
+ /usr/local/openssl/include/openssl/rsaerr.h
+ /usr/local/openssl/include/openssl/safestack.h
+ /usr/local/openssl/include/openssl/sha.h
+ /usr/local/openssl/include/openssl/stack.h
+ /usr/local/openssl/include/openssl/symhacks.h
+ /usr/local/openssl/include/openssl/types.h
+ /usr/local/openssl/include/openssl/x509.h
+ /usr/local/openssl/include/openssl/x509_vfy.h
+ /usr/local/openssl/include/openssl/x509err.h
 CMakeFiles/ClionProjects.dir/main.cpp.o
  /Users/mac/Desktop/CZBKC/ClionProjects/main.cpp
