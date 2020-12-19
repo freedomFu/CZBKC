@@ -1,0 +1,20 @@
+12/17/20, 05:37:45.200 [NOTICE] DisableNetwork is set. Tor will not make or accept non-control network connections. Shutting down all existing connections.
+12/17/20, 05:38:08.631 [NOTICE] DisableNetwork is set. Tor will not make or accept non-control network connections. Shutting down all existing connections.
+12/17/20, 05:38:08.631 [NOTICE] DisableNetwork is set. Tor will not make or accept non-control network connections. Shutting down all existing connections.
+12/17/20, 05:38:08.632 [NOTICE] DisableNetwork is set. Tor will not make or accept non-control network connections. Shutting down all existing connections.
+12/17/20, 05:38:08.632 [NOTICE] Opening Socks listener on 127.0.0.1:9150
+12/17/20, 05:38:08.632 [NOTICE] Opened Socks listener on 127.0.0.1:9150
+12/17/20, 05:38:08.983 [NOTICE] Bootstrapped 1% (conn_pt): Connecting to pluggable transport
+12/17/20, 05:38:08.984 [NOTICE] Bootstrapped 2% (conn_done_pt): Connected to pluggable transport
+12/17/20, 05:38:08.987 [NOTICE] Bootstrapped 10% (conn_done): Connected to a relay
+12/17/20, 05:38:09.611 [WARN] Problem bootstrapping. Stuck at 10% (conn_done): Connected to a relay. (TLS_ERROR; TLS_ERROR; count 1; recommendation warn; host 97700DFE9F483596DDA6264C4D7DF7641E1E39CE at 0.0.2.0:2)
+12/17/20, 05:38:09.611 [WARN] 1 connections have failed:
+12/17/20, 05:38:09.611 [WARN] 1 connections died in state handshaking (TLS) with SSL state SSLv3/TLS write client hello in HANDSHAKE
+12/17/20, 05:38:09.631 [NOTICE] Closing no-longer-configured Socks listener on 127.0.0.1:9150
+12/17/20, 05:38:09.631 [NOTICE] DisableNetwork is set. Tor will not make or accept non-control network connections. Shutting down all existing connections.
+12/17/20, 05:38:09.631 [WARN] Pluggable Transport process terminated with status code 0
+12/17/20, 05:39:31.313 [NOTICE] DisableNetwork is set. Tor will not make or accept non-control network connections. Shutting down all existing connections.
+12/17/20, 05:39:31.314 [NOTICE] DisableNetwork is set. Tor will not make or accept non-control network connections. Shutting down all existing connections.
+12/17/20, 05:39:31.314 [NOTICE] DisableNetwork is set. Tor will not make or accept non-control network connections. Shutting down all existing connections.
+12/17/20, 05:39:31.314 [NOTICE] Opening Socks listener on 127.0.0.1:9150
+12/17/20, 05:39:31.314 [NOTICE] Opened Socks listener on 127.0.0.1:9150
