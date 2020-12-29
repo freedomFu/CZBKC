@@ -3,6 +3,7 @@
 #include <list>
 #include <algorithm>
 #include <functional>
+#include <iterator>
 
 using namespace std;
 
@@ -131,40 +132,7 @@ vector<int> sub_vec(const vector<int> &vec, int val)
     return local_vec;
 }
 
-template <typename InputIterator, typename OutputIterator,
-            typename ElemType, typename Comp>
-OutputIterator sub_vec0(InputIterator first, InputIterator last, OutputIterator at, const ElemType & val, Comp pred)
-{
-    int i=0;
-    OutputIterator vbegin, vend;
-    *vbegin = *first;
-    while(first!=last)
-    {
-        *at++ = *first++;
-        i++;
-    }
-
-    OutputIterator oit = find_if(at, at+i, bind2nd(pred, val));
-
-    return at;
-}
-
 int main()
-{
-    int a[] = {6, 10, 8, 4, 10, 7, 10};
-    vector<int> ivec(a, a+7);
-    vector<int> ovec;
-    less<int> lt;
-    vector<int> res = sub_vec0(ivec.begin(),ivec.end(),ovec, 6, greater_equal<int>());
-    int vsize = res.size();
-    // end() 指向的是最后一个元素的下一个元素
-    vector<int>::iterator first = res.begin();
-    vector<int>::iterator last = res.end();
-    display(res.begin(), res.end(), "res的内容为：");
-    return 0;
-}
-
-int main1()
 {
     const int elem_size = 8;
     int ia[elem_size] = {12, 8 ,43, 0, 6, 21, 3, 7};
@@ -178,7 +146,7 @@ int main1()
     filter(ia, ia+elem_size, ia2, elem_size, less<int>());
 
     cout << "filtering interger vector for values greater than 8\n";
-    filter(ivec.begin(), ivec.end(), ivec2.begin(), elem_size, greater<int>());
+    filter(ivec.begin(), ivec.end(), back_inserter(ivec2), elem_size, greater<int>());
 
     return 0;
 }

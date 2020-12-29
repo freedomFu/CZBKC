@@ -1,6 +1,6 @@
 objects = $(execobj).o
-execobj = Min_Stack155
-execobjall = Min_Stack155 TwoSum1 MaxChunksToMakeSorted769 Searcha2DMatrix240 Rotate_Image48 TransposeMatrix867 NumDisaArray448
+execobj = Triangular
+execobjall = val_class Matrix Triangular Stack1 Stack test
 
 all : $(execobj)
 	@rm $(objects)
@@ -15,4 +15,5 @@ clean :
 
 cleanall:
 	@-rm $(execobjall)
+	@-rm $(objects)
 

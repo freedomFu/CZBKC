@@ -1,6 +1,6 @@
 objects = $(execobj).o
-execobj = testMap
-execobjall = testMap design2 designGenAlg insertTest queuetest sortest multiFind
+execobj = exercise35
+execobjall = exercise35 exercise34 exercise33 exercise32 exercise31 testlast testSet testMap design2 designGenAlg insertTest queuetest sortest multiFind
 
 all : $(execobj)
 	@rm $(objects)
